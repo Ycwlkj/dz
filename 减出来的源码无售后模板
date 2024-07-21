@@ -1,0 +1,57 @@
+                <li class="col-xs-12 col-md-6">
+                    <div class="pricing_table">
+                        <div class="pricing_header">
+                            <div class="pt_price">18元
+                                <small>/无售后</small>
+                            </div>
+                            <div class="pt_name">普通TF版1开（无售后）</div>
+                        </div>
+                        <div class="pricing_body">
+                            <div class="pricing_body_list"><i class="pricing_icon"><img src="picture/gou.png" alt="使用时间"></i>最多用3个月（购买后任何理由不退换）</div>
+                            <div class="pricing_body_list"><i class="pricing_icon"><img src="picture/gou.png" alt="消息防撤回"></i>消息防撤回</div>
+                            <div class="pricing_body_list"><i class="pricing_icon"><img src="picture/gou.png" alt="红包秒抢"></i>红包秒抢</div>
+                            <div class="pricing_body_list"><i class="pricing_icon"><img src="picture/gou.png" alt="虚拟定位"></i>虚拟定位</div>
+                            <div class="pricing_body_list"><i class="pricing_icon"><img src="picture/gou.png" alt="密友功能"></i>密友功能</div>
+                            <div class="pricing_body_list"><i class="pricing_icon"><img src="picture/cuo.png" alt="无限多开"></i>无限多开微信（一个一开，两个二开，以此类推）</div>
+                            <div class="pricing_body_list"><i class="pricing_icon"><img src="picture/cuo.png" alt="售后服务"></i>售后服务</div>
+                            
+                            <div class="pricing_body_list"><a href="https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/7872b3ef942adf6f8a538cc6cd4b4255633c8f36a9147638802b6c3a7f3439dfdd7c90b435897b55606fb5c3fec853dd?pictype=scale&from=30013&version=3.3.3.3&fname=IMG_8208.JPG&size=750"><i class="pricing_icon"><img src="picture/qq.png"
+                            style="width: 20px;margin: 0px -5px 0 0;" alt="QQ客服"></i>QQ客服：614211605</a>
+                            </div>
+                            <div class="pricing_body_list"><a href="https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/be3cf478d560d36939f0a47df4654e52c9b03649e0facf17733cf65fd907240cd1d3bed2be8ced064af3a5013ef6367f?pictype=scale&from=30013&version=3.3.3.3&fname=IMG_7441.JPG&size=750"><i class="pricing_icon"><img src="picture/wx.jpg"
+                            style="width: 20px;margin: 0px -5px 0 0;" alt="QQ客服"></i>微信客服：Ycwl-js</a>
+                            </div>
+                        </div>
+                        <div class="pricing_footer">
+                        <a href="http://yc.ycy3.cn" class="btn btn_default" target="_blank">点击购买</a>
+                        </div>
+                    </div>
+                </li>
+                <li class="col-xs-12 col-md-6">
+                    <div class="pricing_table">
+                        <div class="pricing_header">
+                            <div class="pt_price">78元
+                                <small>/售后三个月</small>
+                            </div>
+                            <div class="pt_name">高端TF版1开（售后三个月）</div>
+                        </div>
+                        <div class="pricing_body">
+                            <div class="pricing_body_list"><i class="pricing_icon"><img src="picture/gou.png" alt="18无售后版本功能全部支持"></i>18无售后版本功能全部支持</div>
+                            <div class="pricing_body_list"><i class="pricing_icon"><img src="picture/gou.png" alt="一键转发"></i>一键转发</div>
+                            <div class="pricing_body_list"><i class="pricing_icon"><img src="picture/gou.png" alt="转账金额修改"></i>转账金额修改</div>
+                            <div class="pricing_body_list"><i class="pricing_icon"><img src="picture/gou.png" alt="一键消息已读"></i>一键消息已读</div>
+                            <div class="pricing_body_list"><i class="pricing_icon"><img src="picture/gou.png" alt="视频转语音"></i>视频转语音</div>
+                            <div class="pricing_body_list"><i class="pricing_icon"><img src="picture/gou.png" alt="客服指导"></i>售后客服一对一指导帮做</div>
+                            <div class="pricing_body_list"><i class="pricing_icon"><img src="picture/gou.png" alt="售货服务"></i>售货服务</div>
+                            <div class="pricing_body_list"><a href="https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/7872b3ef942adf6f8a538cc6cd4b4255633c8f36a9147638802b6c3a7f3439dfdd7c90b435897b55606fb5c3fec853dd?pictype=scale&from=30013&version=3.3.3.3&fname=IMG_8208.JPG&size=750"><i class="pricing_icon"><img src="picture/qq.png"
+                            style="width: 20px;margin: 0px -5px 0 0;" alt="QQ客服"></i>QQ客服：614211605</a>
+                            </div>
+                            <div class="pricing_body_list"><a href="https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/be3cf478d560d36939f0a47df4654e52c9b03649e0facf17733cf65fd907240cd1d3bed2be8ced064af3a5013ef6367f?pictype=scale&from=30013&version=3.3.3.3&fname=IMG_7441.JPG&size=750"><i class="pricing_icon"><img src="picture/wx.jpg"
+                            style="width: 20px;margin: 0px -5px 0 0;" alt="QQ客服"></i>微信客服：Ycwl-js</a>
+                            </div>
+                        </div>
+                        <div class="pricing_footer">
+                        <a href="http://yc.ycy3.cn" class="btn btn_default" target="_blank">点击购买</a>
+                        </div>
+                    </div>
+                </li>
